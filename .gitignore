@@ -131,6 +131,6 @@ dist
 
 # Tiles files
 
-tiles/*.png
-tiles/*.jpg
-tiles/*.jpeg
+*.png
+*.jpg
+*.jpeg
